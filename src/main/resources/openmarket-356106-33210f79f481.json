@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "openmarket-356106",
+  "private_key_id": "33210f79f4813db597619497e8822e493314f04b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIw8Kd3Gu/2D7y\nAGZjpM2/iBYX2O91UXA7+0gpAQA+W2VFCxx35TzMAYULRG2lo9fK24IKFfX4C7mm\n3b1qQNiGAjOl03SlwzLsNnu7JtH+CYDPm0TTdUxJUWe7ylHv7rKyu399ISWk0Vgy\n0wKsP/E199xaK09w7pv0b3+rjhQZgObqBdBZ+lESbxhS+SeaCtWxENi3i6ZgmEcr\n0nRCBBaBVfDCOhyxdX5HR3YhI75M5gOD5D5N6QCdqwM0b8IUxJdoti5CKJBh46kf\nzwYECbSi9maQD1J424+4OIYgk25ttMDpebRgzAM9+ShyJ96xs7sMxQiggzpP5GLW\nBHbQjoVLAgMBAAECggEAIB1sftsZI12gqA6XUl41CWvn+NWbbH1kAjxOjTybQN5W\n40YFPkqdwJaHpUdDcOk2Jj2Z3iooKA8cGgzDdYE9AabNgzvBn5iLh0yp20S497Wm\ndM9GIbtUQjAy80/IbqSU0lF68dXBE03nmW22sj4iRDtLdOMTuKF6sg258wPtxCxZ\nT3SJUZT79WOqnLF3OX3TcbObLNkcWK7L0+QInr5Jo3Kj981kPfoUzjJ3RJO73L8S\n7glkCv0oGxXtZ4fI07zON46riGTT0MMGcQOXezqfBJgetFKA6nePlX870woVidVE\n77OqLcnVRdfi/bbuMg9/tjvw0NiV5+gdKBLjmsyAsQKBgQDy+kHgSZ5u2JIX4E5y\nb9FO9SAXoecyWAU5Fj7mqbG06cwJLKmB4vCa0YTLxBK4ehN1hv7b1YEPcfV4Kd0r\nH1UpI2M0BFxO0xiXzCFuOYf6jD187QgawiHcspACLs9wQK51JWuzAf3Lmh6xblH2\nVLJW1ABNUCJ1fuxP58D4UG1rEQKBgQDThlOT5wi14jUCS4VPvYVWcbqYXc6F45mf\noZBEuJHctVwudnVEJU9H/NEr4fG3+aaYdghQhmr3vu61ge3+pITDG1y+N5Ypg8i0\nzRP1d8vFwYUZiWhBFE0B9MbZPAPJVaBc9S8VkPZo+ZkS8S5eblOBzNGyd5kMmNpa\npUwu3U+SmwKBgQCurK5zGTmmolbUh1Kd/jjQtHPvyVq13IVUtuNdW5z/XBxsdAkf\n8Q/bnMgE3N5AdLJMiVHqpCB2BAzd5+qxt4K3YlNM792UZTmG1x8paH6S5gLGLnjn\nE6zYRh41E4XZQwan/NDiDYpwtklecNrHZbgXp6zX58X+BdLI1ujpGpiuoQKBgF6j\neP1xnvoRzXnLZEf7GY9FryDAx8grvu4nES9ODSTcl/PJ2Em3D7O7r7KcktOnhRwt\noya0HWPfL1pSWbNW1Hee5G3O3QaSCdiq8MUg5jEClpSIX/bOKG45oEZNjbwk7Wzp\n3jkd9MGe+xf4hLCHWCF5DFF3JSj3sqpfzqghKJsFAoGASAcs8uv0CaSO2DeVwbu6\ntv93zsmOHxnpfdmODMZ2uJSCo/I2N48uqqB0fp7DQTSpQ6nr4r+2OOZ0nTPX5Wr7\nHGFNPKGVn6Jd8Li0B9azmISbDgIW/35reQEqARYs6wJBJNoEFORE6a7CEgHvqGIz\nY8xbJ4JQmFNku0lmLSQtGd0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-opplus-desarrollo@openmarket-356106.iam.gserviceaccount.com",
+  "client_id": "110573935430762445320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-opplus-desarrollo%40openmarket-356106.iam.gserviceaccount.com"
+}
